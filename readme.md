@@ -3,7 +3,15 @@ Identifying frames in a cardiac ultrasound video associated with left ventricula
 
 This Matlab package is developed for the following paper:
 ```
-Baichuan Yuan, Sathya R Chitturi, Geoffrey Iyer, Nuoyu Li, Xiaochuan Xu, Ruohan Zhan, Rafael Llerena, Jesse T Yen, Andrea L Bertozzi, Machine Learning for Cardiac Ultrasound Time Series Data, Proc. SPIE 10137, Medical Imaging 2017. 
+@inproceedings{yuan2017machine,
+  title={Machine learning for cardiac ultrasound time series data},
+  author={Yuan, Baichuan and Chitturi, Sathya R and Iyer, Geoffrey and Li, Nuoyu and Xu, Xiaochuan and Zhan, Ruohan and Llerena, Rafael and Yen, Jesse T and Bertozzi, Andrea L},
+  booktitle={Medical Imaging 2017: Biomedical Applications in Molecular, Structural, and Functional Imaging},
+  volume={10137},
+  pages={101372D},
+  year={2017},
+  organization={International Society for Optics and Photonics}
+}
 ```
 
 ## Usage
